@@ -1,5 +1,4 @@
 - section : 
-    - 
       name : 'data'
       resource : 
         - 
@@ -9,7 +8,6 @@
             title : 'fwww'
             url : 'veee'
 - section : 
-    - 
       name : 'dataqq'
       resource : 
         - 
