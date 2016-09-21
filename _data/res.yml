@@ -1,15 +1,15 @@
-- section : 
-      name : 'data'
-      resource : 
+-
+ name : 'data'
+ resource : 
         - 
             title : 'geeeee'
             url : 'gggg'
         - 
             title : 'fwww'
             url : 'veee'
-- section : 
-      name : 'dataqq'
-      resource : 
+-
+ name : 'dataqq'
+ resource : 
         - 
             title : 'gfwweeeee'
             url : 'fee'
