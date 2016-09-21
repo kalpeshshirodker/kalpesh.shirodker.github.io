@@ -8,9 +8,14 @@ Security
 Javascript
 
 <ul>
-{% for resource in site.data.resources %}
+{% for section in site.data.resources %}
   <li>
-    {{ resource.section}}
+    {{ section.section}}
+    <ul>
+    {% for resource in section.resource %}
+      <li>{{ resource.title}}</li>
+    {% endfor %}
+    </ul>
   </li>
 {% endfor %}
 </ul>
