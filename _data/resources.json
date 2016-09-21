@@ -1,0 +1,21 @@
+[
+	{
+		section : 'Security',
+		resource : [{
+			title : 'Content Security Policy - cheat sheet',
+			url : 'https://scotthelme.co.uk/csp-cheat-sheet/'
+		},{
+			title : 'Content Security Policy - cheat sheet22',
+			url : 'https://scotthelme.co.uk/csp-cheat-sheet22/'
+		}]
+	},{
+		section : 'Javascript',
+		resource : [{
+			title : 'Content Security Policy - cheat sheet javascript',
+			url : 'https://scotthelme.co.uk/csp-cheat-sheet_fds/'
+		},{
+			title : 'Content Security Policy - cheat sheet javas22',
+			url : 'https://scotthelme.co.uk/csp-cheat-sheet22_jaggss/'
+		}]
+	}
+]
