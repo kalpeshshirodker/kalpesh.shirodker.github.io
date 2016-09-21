@@ -1,7 +1,7 @@
-section : 
+- section : 
     - 'data'
     - resource : 
-        - title : 'geeeee'
+       - title : 'geeeee'
         url : 'gggg'
         - title : 'fwww'
         url : 'veee'
