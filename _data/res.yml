@@ -1,14 +1,18 @@
 - section : 
     - 'data'
     - resource : 
-        - title : 'geeeee'
-        url : 'gggg'
-        - title : 'fwww'
-        url : 'veee'
+        - 
+            title : 'geeeee'
+            url : 'gggg'
+        - 
+            title : 'fwww'
+            url : 'veee'
 - section : 
     - 'dataqq'
     - resource : 
-        - title : 'gfwweeeee'
-        url : 'fee'
-        - title : 'vee'
-        url : 'veee'
+        - 
+            title : 'gfwweeeee'
+            url : 'fee'
+        - 
+            title : 'vee'
+            url : 'veee'
