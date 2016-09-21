@@ -8,7 +8,7 @@ yml
 <ul>
 {% for section in site.data.res %}
   <li>
-    <h3>{{ section.section}}</h3>
+    <h3>{{ section.name}}</h3>
     <ul>
     {% for resource in section.resource %}
       <li><a href="{{ resource.url }}" rel="noreferrer nofollow" target="_blank">{{ resource.title}}</a></li>
