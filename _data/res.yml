@@ -1,5 +1,5 @@
 -
- name : 'data'
+ section : 'data'
  resource : 
         - 
             title : 'geeeee'
@@ -8,7 +8,7 @@
             title : 'fwww'
             url : 'veee'
 -
- name : 'dataqq'
+ section : 'dataqq'
  resource : 
         - 
             title : 'gfwweeeee'
