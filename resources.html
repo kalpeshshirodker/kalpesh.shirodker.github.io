@@ -6,3 +6,11 @@ title: Resources
 Useful resource on the web
 Security
 Javascript
+
+<ul>
+{% for resource in site.data.resources %}
+  <li>
+    {{ resource.section}}
+  </li>
+{% endfor %}
+</ul>
