@@ -13,7 +13,7 @@ Javascript
     <h3>{{ section.section}}</h3>
     <ul>
     {% for resource in section.resource %}
-      <li>{{ resource.title}}</li>
+      <li><a href="{{ resource.url }}" rel="noreferrer nofollow">{{ resource.title}}</a></li>
     {% endfor %}
     </ul>
   </li>
