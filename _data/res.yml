@@ -1,24 +1,24 @@
-- section : 
-    - 'Security'
-    - resource : 
+-  
+    section : 'Security'
+    resource : 
         - 
             title : Content Security Policy - cheat sheet
             url : https://scotthelme.co.uk/csp-cheat-sheet/
         - 
             title : OWASP - The free and open source community
             url : https://www.owasp.org
-- section : 
-    - 'Javascript'
-    - resource : 
+-  
+    section : 'Javascript'
+    resource : 
         - 
             title : 45 Useful JavaScript Tips, Tricks and Best Practices
             url : https://modernweb.com/2013/12/23/45-useful-javascript-tips-tricks-and-best-practices/
         - 
             title : A JS tip per day
             url : http://www.jstips.co/
-- section : 
-    - 'YAML'
-    - resource : 
+-  
+    section : 'YAML'
+    resource : 
         - 
             title : Learn YAML in Y Minutes
             url : https://learnxinyminutes.com/docs/yaml/
