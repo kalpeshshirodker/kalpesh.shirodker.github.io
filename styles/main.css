@@ -1,0 +1,9 @@
+nav > ul > li {
+    float: left;
+}
+
+nav > ul > li > a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
