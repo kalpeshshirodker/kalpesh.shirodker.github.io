@@ -3,12 +3,12 @@ layout: default
 title: Resources
 ---
 
-Useful resources on the web
-yml
+<h2>Useful resources on the web</h2>
+
 <ul class='section-list'>
 {% for section in site.data.res %}
   <li class='section-list-item'>
-    <h3>{{ section.section}}</h3>
+    <h3><i class="fa fa-book fa-fw" aria-hidden="true">&nbsp{{ section.section}}</h3>
     <ul class='resource-list'>
     {% for resource in section.resource %}
       <li class='resource-list-item'><a href="{{ resource.url }}" rel="noreferrer nofollow" target="_blank">{{ resource.title}}</a></li>
