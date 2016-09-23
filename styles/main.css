@@ -31,7 +31,9 @@ nav ul li a {
 /*nav ul li a:active{
     background-color : #0f7ce5;
 }*/
-
+ul.resource-list{
+    list-style-type: none;
+}
 
 ul.resource-list li:before {    
     font-family: 'FontAwesome';
