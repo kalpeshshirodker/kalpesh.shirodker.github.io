@@ -4,7 +4,6 @@ nav {
     border-bottom : 5px solid #0f7ce5;
     margin-bottom : 5px;
     padding : 10px 0;
-    background-color : #FF9B10;
 }
 
 nav ul {
@@ -20,12 +19,13 @@ nav ul li {
     text-align: center;
     border-left: 1px solid #fff;
     border-right: 1px solid #ccc;
+
 }
 
 nav ul li a {
     display: block;
  text-decoration : none;
- color : white;
+ color :  #000;
 }
 
 nav ul li a:active{
