@@ -22,11 +22,6 @@ nav ul li {
 
 }
 
-nav ul li:before {    
-    font-family: 'FontAwesome';
-    content: '\f13d';
-    margin:0 5px 0 -15px;
-}
 nav ul li a {
     display: block;
  text-decoration : none;
@@ -36,3 +31,10 @@ nav ul li a {
 /*nav ul li a:active{
     background-color : #0f7ce5;
 }*/
+
+
+ul.resource-list li:before {    
+    font-family: 'FontAwesome';
+    content: '\f13d';
+    margin:0 5px 0 -15px;
+}
