@@ -5,13 +5,13 @@ title: Resources
 
 Useful resources on the web
 yml
-<ul>
+<ul class='section-list'>
 {% for section in site.data.res %}
-  <li>
+  <li class='section-list-item'>
     <h3>{{ section.section}}</h3>
-    <ul>
+    <ul class='resource-list'>
     {% for resource in section.resource %}
-      <li><a href="{{ resource.url }}" rel="noreferrer nofollow" target="_blank">{{ resource.title}}</a></li>
+      <li class='resource-list-item'><a href="{{ resource.url }}" rel="noreferrer nofollow" target="_blank">{{ resource.title}}</a></li>
     {% endfor %}
     </ul>
   </li>
